@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "run-js",
+  "description": "Run custom 'js' for your chrome",
+  "version": "1.0",
+  "action": {
+    "default_popup": "run-js.html",
+    "default_icon": "emblem-run-js.png"
+  }
+}
